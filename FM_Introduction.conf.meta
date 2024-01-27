@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{2D0C4671F763F0B8}Configs/FieldManual/Categories/Introduction.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

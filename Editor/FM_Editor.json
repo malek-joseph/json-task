@@ -1,0 +1,1355 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-Editor",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorIntro_Title",
+              "m_Image": "{81BBAF0F67783EC5}UI/Textures/FieldManual/Editor/Editor/Tiles/intro_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorIntro_Text_0"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorIntro_Text_1"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorIntro_Text_2"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorIntro_Text_3"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{F3A06D39D9481990}UI/Textures/FieldManual/Editor/Editor/Images/FM_Image_Intro_Editor.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_ImagePath": "{27FF79E9EC0C6CF3}UI/Textures/Editor/Logos/Logo_Editor_64x64.edds",
+                      "m_sText": "<b>#AR-Editor_Mode_Edit_Name</b>"
+                    },
+                    {
+                      "m_ImagePath": "{C8B64592DC4CED73}UI/Textures/Editor/Logos/Logo_Photo_64x64.edds",
+                      "m_sText": "<b>#AR-Editor_Mode_Photo_Name</b>"
+                    },
+                    {
+                      "m_ImagePath": "{B066DC3BE4C68E39}UI/Textures/Editor/Logos/Logo_Admin_64x64.edds",
+                      "m_sText": "<b>#AR-Editor_Mode_Admin_Name</b>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorAccess_Title",
+              "m_Image": "{F2990C225B50CAEF}UI/Textures/FieldManual/Editor/Editor/Tiles/access_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorAccess_Text_0"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorAccess_Text_1"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorAccess_Text_2"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Keybind": [
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorToggle\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_Interface"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorFirstSteps_Title",
+              "m_Image": "{38B19E78B991E81D}UI/Textures/FieldManual/Editor/Editor/Tiles/firstSteps_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_0"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_2"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_4"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_5"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_7"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_8"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_9"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_1"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_3"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorFirstSteps_Text_6"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{979EC127D18235B6}UI/Textures/FieldManual/Editor/Editor/Images/Editor_Steps_1_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{9980856FEC753A6C}UI/Textures/FieldManual/Editor/Editor/Images/Editor_Steps_2_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{9C7546A80727C0DA}UI/Textures/FieldManual/Editor/Editor/Images/Editor_Steps_3_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{85BC0DFF979B25D8}UI/Textures/FieldManual/Editor/Editor/Images/Editor_Steps_4_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Separator": [
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorPlayer_Title",
+              "m_Image": "{6E8CC659E3155623}UI/Textures/FieldManual/Editor/Editor/Tiles/player_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorPlayer_Text_0"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraTeleportPlayer\\\"/>",
+                              "m_sDescription": "#AR-FieldManual_Page_EditorPlayer_Text_1"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorTakeControl\\\"/>",
+                              "m_sDescription": "#AR-FieldManual_Page_EditorPlayer_Text_2"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorCamera_Title",
+              "m_Image": "{268E8D372A9689C7}UI/Textures/FieldManual/Editor/Editor/Tiles/camera_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCamera_Text_0"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCamera_Text_2"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCamera_Text_4"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCamera_Text_5"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCamera_Text_7"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCamera_Text_8"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCamera_Text_1"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCamera_Text_3"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCamera_Text_6"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraMoveLongitudinal\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_MoveFB"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraMoveLateral\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_MoveRL"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraMoveVertical\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_MoveUpDown"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraMoveToCursor\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_MoveTowardsCursor"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraSpeedBoost\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_SpeedBoost"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraTeleport\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_TeleportUnderCursor"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraTeleportToPlayer\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_TeleportToPlayer"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraRotate\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_Modifier #AR-FieldManual_Keybind_MouseAndKeyboard"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraRotateYaw\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_LookRL"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraRotatePitch\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_LookUpDown"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraSpeedAdjust\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_AdjustSpeed #AR-FieldManual_Keybind_MouseAndKeyboard"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraSpeedReset\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_ResetSpeed #AR-FieldManual_Keybind_MouseAndKeyboard"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraAttach\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_AttachCameraToEntity"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraAttach\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_AttachCameraToEmptySpace"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraSave1\\\"/> ... <action name=\\\"ManualCameraSave8\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_SaveCameraParams"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraLoad1\\\"/> ... <action name=\\\"ManualCameraLoad8\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_LoadCameraParams"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorCameraArmavision_Title",
+              "m_Image": "{0A56FD90088CB99B}UI/Textures/FieldManual/Editor/Editor/Tiles/cameraArmavision_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCameraArmavision_Text_0"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCameraArmavision_Text_2"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCameraArmavision_Text_4"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCameraArmavision_Text_5"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCameraArmavision_Text_6"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCameraArmavision_Text_8"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCameraArmavision_Text_1"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCameraArmavision_Text_3"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorCameraArmavision_Text_7"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraRotateRoll\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_RollRL"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraFocus\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_FocusUnderCursor"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraFocusReset\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_FocusReset"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraZoom\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_ZoomAdjust"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ManualCameraZoomReset\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_ZoomReset"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorToolbars_Title",
+              "m_Image": "{17E7BB7E36CC390B}UI/Textures/FieldManual/Editor/Editor/Tiles/toolbars_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_0"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_2"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_4"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_6"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_8"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_10"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_1"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_3"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_5"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_7"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorToolbars_Text_9"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorModeMenu\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_FocusOnMode"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorToolbarMenu\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_FocusOnAction"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorFactionMenu\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_FocusOnFaction"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorEntityMenu\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_FocusOnEntityList"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorPlacingMenu\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_FocusOnPlacing"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorScenarioSettings_Title",
+              "m_Image": "{67A07EC43C2D5283}UI/Textures/FieldManual/Editor/Editor/Tiles/scenarioProperties_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorScenarioSettings_Text_0"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorScenarioSettings_Text_1"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Keybind": [
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorAttributes\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_ScenarioAttributes"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{1BA2DB0101B38943}UI/Textures/FieldManual/Editor/Editor/Images/Editor_scenario_settings_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_EditorScenarioSettings_Image_0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorAssetBrowser_Title",
+              "m_Image": "{1990CD1B63806E26}UI/Textures/FieldManual/Editor/Editor/Tiles/entityBrowser_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorAssetBrowser_Text_0"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorAssetBrowser_Text_2"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorAssetBrowser_Text_4"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{F986AAEE52F61809}UI/Textures/FieldManual/Editor/Editor/Images/Editor_entity_browser_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_EditorAssetBrowser_Title"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorAssetBrowser_Text_1"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorAssetBrowser_Text_3"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorPlacing_Title",
+              "m_Image": "{92A38B622CA536AC}UI/Textures/FieldManual/Editor/Editor/Tiles/placing_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_EditorPlacing_Text_0"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ]
+                }
+              ],
+              "SCR_FieldManualPiece_LineBreak": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+              ],
+              "SCR_FieldManualPiece_Text": [
+                {
+                  "m_sText": "#AR-FieldManual_Page_EditorPlacing_Text_1"
+                }
+              ],
+              "SCR_FieldManualPiece_KeybindList": [
+                {
+                  "m_aKeybinds": [
+                    {
+                      "SCR_FieldManualPiece_Keybind": [
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorPlaceAndCancel\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_Place"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorPlace\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_KeepPlacing"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorCancelPlacing\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_CancelPlacing"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "SCR_FieldManualPiece_Image": [
+                {
+                  "m_ImagePath": "{46A95997CA24D073}UI/Textures/FieldManual/Editor/Editor/Images/Editor_asset_preview_UI.edds",
+                  "m_sCaption": "#AR-FieldManual_Page_EditorPlacing_Image_0"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "SCR_FieldManualConfigEntry_Standard": [
+        {
+          "m_sTitle": "#AR-FieldManual_Page_EditorSelecting_Title",
+          "m_Image": "{0993FA63C5EA3EE2}UI/Textures/FieldManual/Editor/Editor/Tiles/selecting_ui.edds",
+          "m_aContent": [
+            {
+              "SCR_FieldManualPiece_Text": [
+                {
+                  "m_sText": "#AR-FieldManual_Page_EditorSelecting_Text_0"
+                },
+                {
+                  "m_sText": "#AR-FieldManual_Page_EditorSelecting_Text_2"
+                },
+                {
+                  "m_sText": "#AR-FieldManual_Page_EditorSelecting_Text_4"
+                }
+              ],
+              "SCR_FieldManualPiece_LineBreak": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+              ],
+              "SCR_FieldManualPiece_KeybindList": [
+                {
+                  "m_aKeybinds": [
+                    {
+                      "SCR_FieldManualPiece_Keybind": [
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorSetSelection\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_SelectEntity"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorToggleSelection\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_SelectionToggle"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorClearSelection\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_SelectionCancel"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorSelectAll\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_SelectAllEntitiesInView"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aKeybinds": [
+                    {
+                      "SCR_FieldManualPiece_Keybind": [
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorDrawSetSelection\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_MultiSelection"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorDrawToggleSelection\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_MultiSelectionToggle"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorDrawSelectionCancel\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_MultiSelectionCancel"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aKeybinds": [
+                    {
+                      "SCR_FieldManualPiece_Keybind": [
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorSaveSelection1\\\"/> ... <action name=\\\"EditorSaveSelection0\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_SelectionSave"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorLoadSelection1\\\"/> ... <action name=\\\"EditorLoadSelection0\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_SelectionRestore"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "SCR_FieldManualPiece_Image": [
+                {
+                  "m_ImagePath": "{87276B699B529B15}UI/Textures/FieldManual/Editor/Editor/Images/Editor_focused_entities_UI.edds",
+                  "m_sCaption": "#AR-FieldManual_Page_EditorSelecting_Image_1"
+                },
+                {
+                  "m_ImagePath": "{F37C561E8C888969}UI/Textures/FieldManual/Editor/Editor/Images/Editor_selected_entities_UI.edds",
+                  "m_sCaption": "#AR-FieldManual_Page_EditorSelecting_Image_0"
+                },
+                {
+                  "m_ImagePath": "{62C7B6C13CCFBC86}UI/Textures/FieldManual/Editor/Editor/Images/Editor_multi_selection_keyboard_UI.edds",
+                  "m_sCaption": "#AR-FieldManual_Page_EditorSelecting_Image_2 #AR-FieldManual_Keybind_MouseAndKeyboard"
+                },
+                {
+                  "m_ImagePath": "{F8BE12ECC42C5894}UI/Textures/FieldManual/Editor/Editor/Images/Editor_multi_selection_controller_UI.edds",
+                  "m_sCaption": "#AR-FieldManual_Page_EditorSelecting_Image_2 #AR-FieldManual_Keybind_Gamepad"
+                }
+              ],
+              "SCR_FieldManualPiece_Header": [
+                {
+                  "m_sText": "#AR-FieldManual_Page_EditorSelecting_Text_1"
+                },
+                {
+                  "m_sText": "#AR-FieldManual_Page_EditorSelecting_Text_3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_sTitle": "#AR-FieldManual_Page_EditorTransforming_Title",
+          "m_Image": "{83BF9B5DFA7F5304}UI/Textures/FieldManual/Editor/Editor/Tiles/transforming_ui.edds",
+          "m_aContent": [
+            {
+              "SCR_FieldManualPiece_Text": [
+                {
+                  "m_sText": "#AR-FieldManual_Page_EditorTransforming_Text_0"
+                },
+                {
+                  "m_sText": "#AR-FieldManual_Page_EditorTransforming_Text_1"
+                },
+                {
+                  "m_sText": "#AR-FieldManual_Page_EditorTransforming_Text_2"
+                }
+              ],
+              "SCR_FieldManualPiece_LineBreak": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+              ],
+              "SCR_FieldManualPiece_KeybindList": [
+                {
+                  "m_aKeybinds": [
+                    {
+                      "SCR_FieldManualPiece_Keybind": [
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorTransform\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_EntityEdit"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorTransformToggle\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_EntityEditToggle"
+                        },
+                        {
+                          "m_sKeybind": "<action name=\\\"EditorCancelTransforming\\\"/>",
+                          "m_sDescription": "#AR-KeybindEditor_EditingCancel"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{CFEACC4DBCDC4717}UI/Textures/FieldManual/Editor/Editor/Images/Editor_transforming_UI.edds",
+              "m_sCaption": "#AR-FieldManual_Page_EditorTransforming_Image_0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "SCR_FieldManualConfigEntry_Standard": [
+    {
+      "m_sTitle": "#AR-FieldManual_Page_EditorEntityAttributes_Title",
+      "m_Image": "{48A14363392E4959}UI/Textures/FieldManual/Editor/Editor/Tiles/entittyAttributes_ui.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorEntityAttributes_Text_0"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorEntityAttributes_Text_1"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorEntityAttributes_Text_2"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_KeybindList": [
+            {
+              "m_aKeybinds": [
+                {
+                  "SCR_FieldManualPiece_Keybind": [
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorEntityAttributes\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_OpenEntityAttributes"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorActionsMenu\\\"/>",
+                      "m_sDescription": "#AR-KeyBind_EditorActionsMenu_Name — #AR-Editor_ContextAction_OpenAttributeWindow_Name"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{57AD785C3C51A215}UI/Textures/FieldManual/Editor/Editor/Images/Editor_entity_attributes_UI.edds",
+              "m_sCaption": "#AR-FieldManual_Page_EditorEntityAttributes_Image_0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_EditorCommandingAI_Title",
+      "m_Image": "{CF433064AC51DB8A}UI/Textures/FieldManual/Editor/Editor/Tiles/commandingAI_ui.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorCommandingAI_Text_0"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorCommandingAI_Text_1"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorCommandingAI_Text_2"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_KeybindList": [
+            {
+              "m_aKeybinds": [
+                {
+                  "SCR_FieldManualPiece_Keybind": [
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorSetCommand\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_SetMoveWP"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorSetCommandMenu\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_OpenMenuToWP"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorAddCommand\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_QueueWP"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorAddCommandMenu\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_OpenMenuToQueueWP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{37FDFD912B663E9B}UI/Textures/FieldManual/Editor/Editor/Images/Editor_waypoint_menu_UI.edds",
+              "m_sCaption": "#AR-FieldManual_Page_EditorCommandingAI_Image_1"
+            },
+            {
+              "m_ImagePath": "{F4C9A0FC7A33A8BF}UI/Textures/FieldManual/Editor/Editor/Images/Editor_autonomous_AI_UI.edds",
+              "m_sCaption": "#AR-FieldManual_Page_EditorCommandingAI_Image_2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_EditorMap_Title",
+      "m_Image": "{28FF5E2CD93CB38E}UI/Textures/FieldManual/Editor/Editor/Tiles/mapGM_ui.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorMap_Text_0"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorMap_Text_1"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_KeybindList": [
+            {
+              "m_aKeybinds": [
+                {
+                  "SCR_FieldManualPiece_Keybind": [
+                    {
+                      "m_sKeybind": "<action name=\\\"GadgetMap\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_Map"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"MapZoom\\\"/>",
+                      "m_sDescription": "#AR-Keybind_MapZoom"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"MapDrag\\\"/>",
+                      "m_sDescription": "#AR-Keybind_MapPan"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"MapDragGamepad\\\"/>",
+                      "m_sDescription": "#AR-Keybind_MapPan"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"ManualCameraTeleport\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_TeleportCamera"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{1F471506EC770843}UI/Textures/FieldManual/Editor/Editor/Images/Editor_map_UI.edds",
+              "m_sCaption": "#AR-FieldManual_Page_EditorMap_Image_0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_EditorSlots_Title",
+      "m_Image": "{CA6587AE96A66A96}UI/Textures/FieldManual/Editor/Editor/Tiles/slots_ui.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorSlots_Text_0"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorSlots_Text_1"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorSlots_Text_2",
+              "m_Layout": "{141A95B36F6E7266}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_ListItem.layout"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorSlots_Text_3",
+              "m_Layout": "{141A95B36F6E7266}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_ListItem.layout"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorSlots_Text_4"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{6DB04287183DF2EB}UI/Textures/FieldManual/Editor/Editor/Images/Editor_slots_UI.edds",
+              "m_sCaption": "#AR-FieldManual_Page_EditorSlots_Image_0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_EditorLayers_Title",
+      "m_Image": "{ED281A0EEB21703C}UI/Textures/FieldManual/Editor/Editor/Tiles/layers_ui.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorLayers_Text_0"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorLayers_Text_1",
+              "m_Layout": "{141A95B36F6E7266}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_ListItem.layout"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorLayers_Text_2",
+              "m_Layout": "{141A95B36F6E7266}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_ListItem.layout"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorLayers_Text_3"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorLayers_Text_4"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_EditorLayers_Text_5"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_KeybindList": [
+            {
+              "m_aKeybinds": [
+                {
+                  "SCR_FieldManualPiece_Keybind": [
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorEnterLayer\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_LayerDown"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"EditorExitLayer\\\"/>",
+                      "m_sDescription": "#AR-KeybindEditor_LayerUp"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{C867A3CFED866FE1}UI/Textures/FieldManual/Editor/Editor/Images/Editor_layer_inside_UI.edds",
+              "m_sCaption": "#AR-FieldManual_Page_EditorLayers_Image_0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_SupportStructures_Title",
+      "m_Image": "{ECFEA30E5BD258C7}UI/Textures/FieldManual/Editor/Editor/Tiles/Support_Structures.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Header": [
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_01_01"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_02_01"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_03_01"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_04_01"
+            }
+          ],
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_01_02"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_01_03"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_01_04"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_01_05"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_02_02"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_02_03"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_02_04"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_03_02"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_03_03 #AR-FieldManual_Page_SupportStructures_Text_03_04"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_03_05 #AR-FieldManual_Page_SupportStructures_Text_03_06"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_04_02"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_04_03"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupportStructures_Text_04_04"
+            }
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{BA5BC99FC0CED859}UI/Textures/FieldManual/Editor/Editor/Images/FM_editor_refuel-depot.edds",
+              "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+            },
+            {
+              "m_ImagePath": "{8AEAA8E9C46DC723}UI/Textures/FieldManual/Editor/Editor/Images/FM_editor_vic-depot-small.edds",
+              "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+            },
+            {
+              "m_ImagePath": "{40AEF4CAA82AEBDF}UI/Textures/FieldManual/Editor/Editor/Images/FM_editor_medical-tents.edds",
+              "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+            },
+            {
+              "m_ImagePath": "{D18F5D126BEF26C4}UI/Textures/FieldManual/Editor/Editor/Images/FM_editor_ammunition-supply.edds",
+              "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_Editor_SessionSaving_Title",
+      "m_Image": "{E7E96B8486FC21EE}UI/Textures/FieldManual/Editor/Editor/Tiles/FM-Save.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_Editor_SessionSaving_Text_01"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_Editor_SessionSaving_Text_02"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_Editor_PauseSimulation_Title",
+      "m_Image": "{32F63964AFE24F93}UI/Textures/FieldManual/Editor/Editor/Tiles/FM-Pause.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_Editor_PauseSimulation_Text_01"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_Editor_PauseSimulation_Text_03"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_Editor_PauseSimulation_Text_06"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_Header": [
+            {
+              "m_sText": "#AR-FieldManual_Page_Editor_PauseSimulation_Text_02"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_Editor_PauseSimulation_Text_05"
+            }
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{1F283316028A8969}UI/Textures/FieldManual/Editor/Editor/Images/pause-1.edds",
+              "m_sCaption": "#AR-FieldManual_Page_Editor_PauseSimulation_Text_04",
+              "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+            },
+            {
+              "m_ImagePath": "{41C01A55BD070766}UI/Textures/FieldManual/Editor/Editor/Images/pause-2.edds",
+              "m_sCaption": "#AR-FieldManual_Page_Editor_PauseSimulation_Text_07",
+              "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_SupplySystem_Title",
+      "m_Image": "{42CEF949F05226A9}UI/Textures/FieldManual/Editor/Editor/Tiles/Supplies_System.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_SupplySystem_Text_01"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupplySystem_Text_02"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupplySystem_Text_03"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupplySystem_Text_04"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupplySystem_Text_05"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_SupplySystem_Text_06"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

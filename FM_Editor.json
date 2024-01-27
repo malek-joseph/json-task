@@ -1,0 +1,193 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-Editor",
+      "m_aCategories": [
+        {
+          "m_aEntries": [
+            {
+              "SCR_FieldManualConfigEntry_Standard": [
+                {},
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_ImagePath": "{419827F6E93AE127}UI/Textures/FieldManual/Editor/Editor/Images/Editor_ToggleInterface_UI.edds",
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {},
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_ImagePath": "{CEEE2938A88CF490}UI/Textures/FieldManual/Editor/Editor/Images/Editor_toolbar_UI.edds",
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_sImageSetName": "Editor-test",
+                          "m_Layout": "{6FAE2AF1F29CC641}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Polaroid.layout"
+                        },
+                        {
+                          "m_Layout": "{6FAE2AF1F29CC641}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Polaroid.layout"
+                        },
+                        {
+                          "m_Layout": "{6FAE2AF1F29CC641}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Polaroid.layout"
+                        },
+                        {
+                          "m_Layout": "{6FAE2AF1F29CC641}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Polaroid.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        },
+                        {
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_LineBreak": [
+                        {}
+                      ],
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_ImagePath": "{2251618A213F280E}UI/Textures/FieldManual/Editor/Editor/Images/Editor_save_UI.edds",
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_ImagePath": "{8E5723F47876596F}UI/Textures/FieldManual/Editor/Editor/Images/Resupply_Services_UI.edds",
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

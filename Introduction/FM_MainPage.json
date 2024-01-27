@@ -1,0 +1,381 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Category_Introduction_Title",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-FieldManual_Name",
+              "m_Image": "{59C8002D70A557DC}UI/Textures/FieldManual/Introduction/Field Manual/Tiles/field-manual_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Welcome_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Welcome_Text_02"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Reforger_Title",
+              "m_Image": "{FE1ED27BA8503FF5}UI/Textures/FieldManual/Introduction/Reforger/Tiles/reforger_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_05"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_06"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_07"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_08"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_09"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Reforger_Text_10"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{73EC1781BBAC752F}UI/Textures/FieldManual/Introduction/Images/Introduction_Reforger_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"VONDirect\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Direct_Hold"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONGamepad\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Direct_Hold"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONChannel\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Radio_Hold"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONMenu\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Radio_Select"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONSwitch\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Select"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ChatToggle\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ChatOpen"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"GadgetMap\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Map"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"GadgetCompass\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Compass"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"TasksOpen\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Tasks"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterAction\\\"/>",
+                              "m_sDescription": "#AR-Keybind_VehicleEnter"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"GetOut\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Exit"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VehicleEngineStart\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Engine"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"Inventory\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Inventory"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterUseItem\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Bandage"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Separator": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Career_Title",
+              "m_Image": "{559CBDD52FEB5FAE}UI/Textures/FieldManual/Introduction/career_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_05"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_07"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_09"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_10"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{9D29CDD78C65BB95}UI/Textures/FieldManual/Introduction/Images/Introduction_Career_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_06"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Career_Text_08"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Groups_Title",
+              "m_Image": "{896CE0A4C4C12807}UI/Textures/FieldManual/Introduction/Playing_In_a_Team.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_05"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_06"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_07"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_08"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_09"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Groups_Text_10"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{6C1E660FA30C1F37}UI/Textures/FieldManual/Introduction/Images/Introduction_Team_Play_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_LawsOfWar_Title",
+              "m_Image": "{8D75F265BB11EC68}UI/Textures/FieldManual/Introduction/lawsOfWar_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_06"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_08"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_10"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_12"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_13"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_14"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_15"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_16"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{67CC0121A8332284}UI/Textures/FieldManual/Introduction/Images/Introduction_Laws-of-war_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_05"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_07"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_09"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_LawsOfWar_Text_11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

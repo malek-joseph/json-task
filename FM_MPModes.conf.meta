@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{44AC851FAC854A28}Configs/FieldManual/Categories/MPModes.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

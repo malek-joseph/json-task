@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{6B84058867FF0DAE}Configs/FieldManual/Categories/Gameplay.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

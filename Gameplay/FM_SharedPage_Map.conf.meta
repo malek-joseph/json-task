@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D2EF20FD39102C6B}Configs/FieldManual/Categories/Gameplay/SharedPage_Map.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{236DD62DC87B2155}Configs/FieldManual/Categories/Gameplay/Editor.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

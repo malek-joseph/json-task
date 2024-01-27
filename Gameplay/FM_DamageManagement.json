@@ -1,0 +1,345 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Category_Damage_Title",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-FieldManual_Page_FirstAid_Title",
+              "m_Image": "{09215F16B5B61BA8}UI/Textures/FieldManual/Gameplay/Damage/Tiles/first-aid_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_FirstAid_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_FirstAid_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_FirstAid_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_FirstAid_Text_04"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{D99D1A345129F0EC}UI/Textures/FieldManual/Gameplay/Damage/Images/FM_image_First_Aid_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{C3935988D5073FBF}UI/Textures/FieldManual/Gameplay/Damage/Images/FM_image_Medical_Items1.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_VehicleDamage_Title",
+              "m_Image": "{68F327B9C168186E}UI/Textures/FieldManual/Gameplay/Damage/Tiles/vehicle-damage_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_05"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_07"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_11"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_13"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_15"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_17"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{0610E9B163742B0B}UI/Textures/FieldManual/Gameplay/Damage/Images/FM_image_Vehicle_Damage2_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{080EADF95E8324D1}UI/Textures/FieldManual/Gameplay/Damage/Images/FM_image_Vehicle_Damage1_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_04"
+                    },
+                    {
+                      "m_ImagePath": "{FDD5423E69D007F8}UI/Textures/Icons/icons_wrapperUI-128.imageset",
+                      "m_sImageSetName": "veh_engine_damage",
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_06"
+                    },
+                    {
+                      "m_ImagePath": "{FDD5423E69D007F8}UI/Textures/Icons/icons_wrapperUI-128.imageset",
+                      "m_sImageSetName": "veh_fuel",
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_10"
+                    },
+                    {
+                      "m_ImagePath": "{FDD5423E69D007F8}UI/Textures/Icons/icons_wrapperUI-128.imageset",
+                      "m_sImageSetName": "veh_transmission",
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_12"
+                    },
+                    {
+                      "m_ImagePath": "{FDD5423E69D007F8}UI/Textures/Icons/icons_wrapperUI-128.imageset",
+                      "m_sImageSetName": "veh_wheel",
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_14"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleDamage_Text_16"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Separator": [
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Incapacitation_Title",
+              "m_Image": "{256DB93B50425487}UI/Textures/FieldManual/Gameplay/Damage/Tiles/incapacitation_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Incapacitation_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Incapacitation_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{E20F3A69D3A619E6}UI/Textures/FieldManual/Gameplay/Damage/Images/FM_image_incapacitation.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_MedicalItems_Title",
+              "m_Image": "{C882CD9FD9730F9A}UI/Textures/FieldManual/Gameplay/Damage/Tiles/medicalItems_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{C3935988D5073FBF}UI/Textures/FieldManual/Gameplay/Damage/Images/FM_image_Medical_Items1.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{9D7B70CB6A8AB1B0}UI/Textures/FieldManual/Gameplay/Damage/Images/FM_image_Medical_Items2.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{E33115E8AD9C08FB}UI/Textures/FieldManual/Gameplay/Items/Images/tourniquet_ui.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{FF8399EE737D2C17}UI/Textures/FieldManual/Gameplay/Items/Images/morphine_ui.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{5BE41DA79458531D}UI/Textures/FieldManual/Gameplay/Items/Images/saline_ui.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Bandage_Title"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Tourniquet_Title"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Morphine_Title"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_SalineBag_Title"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Bandage_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Tourniquet_Text_07"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Morphine_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_SalineBag_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterUseItem\\\"/>",
+                              "m_sDescription": "#AR-Keybind_BandageSelf"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterAction\\\"/>",
+                              "m_sDescription": "#AR-Keybind_BandageOthers"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterUseItem\\\"/>",
+                              "m_sDescription": "#AR-Keybind_TourniquetSelf"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterAction\\\"/>",
+                              "m_sDescription": "#AR-Keybind_TourniquetOthers"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterUseItem\\\"/>",
+                              "m_sDescription": "#AR-Keybind_MorphineSelf"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterAction\\\"/>",
+                              "m_sDescription": "#AR-Keybind_MorphineOthers"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterUseItem\\\"/>",
+                              "m_sDescription": "#AR-Keybind_SalineSelf"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterAction\\\"/>",
+                              "m_sDescription": "#AR-Keybind_SalineOthers"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_MedicalVehicles_Title",
+              "m_Image": "{C0BA5AC4C03B43AA}UI/Textures/FieldManual/Gameplay/Damage/Tiles/medicalVehicles_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_MedicalVehicles_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_MedicalVehicles_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{DB071DF683662A2F}UI/Textures/FieldManual/Gameplay/Damage/Images/FM_image_medical_vehicles.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

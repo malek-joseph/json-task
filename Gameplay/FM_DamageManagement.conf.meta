@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{BB7320AAC3FB716A}Configs/FieldManual/Categories/Gameplay/DamageManagement.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

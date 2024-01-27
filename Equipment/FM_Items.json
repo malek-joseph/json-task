@@ -1,0 +1,558 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Page_GameplayItems_Title",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-Item_M22_Name",
+              "m_Image": "{1C827BA7C435E7AB}UI/Textures/FieldManual/Gameplay/Items/Tiles/binoculars_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_M22_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_M22_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_ConfigEntryList": [
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Magnification",
+                              "m_ConfigPath": "{0CF54B9A85D8E0D4}Prefabs/Items/Equipment/Binoculars/Binoculars_M22/Binoculars_M22.et",
+                              "m_sEntryPath": "components/SCR_2DOpticsComponent/m_fMagnification",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Multiplier"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Weight",
+                              "m_ConfigPath": "{0CF54B9A85D8E0D4}Prefabs/Items/Equipment/Binoculars/Binoculars_M22/Binoculars_M22.et",
+                              "m_sEntryPath": "components/InventoryItemComponent/Attributes/ItemPhysAttributes/Weight",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilograms"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_M22_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{3964DDCE7DBBF8B1}UI/Textures/FieldManual/Items/Images/Binoculars/Binocular_M22_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_M22_Image_01 #AR-FieldManual_Page_M22_Image_02 #AR-FieldManual_Page_M22_Image_03 #AR-FieldManual_Page_M22_Image_04",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{01D0FB52A9B7EE09}UI/Textures/FieldManual/Gameplay/Items/Images/binoculairs.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_B12_Title",
+              "m_Image": "{1C827BA7C435E7AB}UI/Textures/FieldManual/Gameplay/Items/Tiles/binoculars_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_B12_Text_01"
+                    },
+                    {
+                      "m_sText": "<b>#AR-Item_B8_Name</b>"
+                    },
+                    {
+                      "m_sText": "<b>#AR-Item_B12_Name</b>"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_ConfigEntryList": [
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Magnification",
+                              "m_ConfigPath": "{243948B23D90BECB}Prefabs/Items/Equipment/Binoculars/Binoculars_B8/Binoculars_B8.et",
+                              "m_sEntryPath": "components/SCR_2DOpticsComponent/m_fMagnification",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Multiplier"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Weight",
+                              "m_ConfigPath": "{243948B23D90BECB}Prefabs/Items/Equipment/Binoculars/Binoculars_B8/Binoculars_B8.et",
+                              "m_sEntryPath": "components/InventoryItemComponent/Attributes/ItemPhysAttributes/Weight",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilograms"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Magnification",
+                              "m_ConfigPath": "{F2539FA5706E51E4}Prefabs/Items/Equipment/Binoculars/Binoculars_B12/Binoculars_B12.et",
+                              "m_sEntryPath": "components/SCR_2DOpticsComponent/m_fMagnification",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Multiplier"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Weight",
+                              "m_ConfigPath": "{F2539FA5706E51E4}Prefabs/Items/Equipment/Binoculars/Binoculars_B12/Binoculars_B12.et",
+                              "m_sEntryPath": "components/InventoryItemComponent/Attributes/ItemPhysAttributes/Weight",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilograms"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_M22_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{FB2045C7E6F08465}UI/Textures/FieldManual/Items/Images/Binoculars/Binocular_B12_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_B12_Image_01 #AR-FieldManual_Page_B12_Image_02 #AR-FieldManual_Page_B12_Image_03 #AR-FieldManual_Page_B12_Image_04",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-Item_ANPRC68_Name",
+              "m_Image": "{E485B6DF58C49B62}UI/Textures/FieldManual/Gameplay/Communication/Tiles/radio-communication_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_ANPRC68_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_ConfigEntryList": [
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Range",
+                              "m_ConfigPath": "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/Radio_ANPRC68.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Transmitting Range",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilometers"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_FrequencyMin",
+                              "m_ConfigPath": "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/Radio_ANPRC68.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Min tunable frequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_FrequencyMax",
+                              "m_ConfigPath": "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/Radio_ANPRC68.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Max tunable frequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Weight",
+                              "m_ConfigPath": "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/Radio_ANPRC68.et",
+                              "m_sEntryPath": "components/InventoryItemComponent/Attributes/ItemPhysAttributes/Weight",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilograms"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{63C3E206A3069AD2}UI/Textures/FieldManual/Items/Images/prc-68.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-Item_ANPRC77_Name",
+              "m_Image": "{E485B6DF58C49B62}UI/Textures/FieldManual/Gameplay/Communication/Tiles/radio-communication_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_ANPRC77_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_ANPRC77_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_ConfigEntryList": [
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Range",
+                              "m_ConfigPath": "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Transmitting Range",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilometers"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_FrequencyMin",
+                              "m_ConfigPath": "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Min tunable frequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_FrequencyMax",
+                              "m_ConfigPath": "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Max tunable frequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Weight",
+                              "m_ConfigPath": "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et",
+                              "m_sEntryPath": "components/SCR_DeployableInventoryItemInventoryComponent/Attributes/ItemPhysAttributes/Weight",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilograms"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{C3B71F3DBE01597E}UI/Textures/FieldManual/Items/Images/prc-77.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-Item_R148_Name",
+              "m_Image": "{E485B6DF58C49B62}UI/Textures/FieldManual/Gameplay/Communication/Tiles/radio-communication_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_R148_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_ConfigEntryList": [
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Range",
+                              "m_ConfigPath": "{E1A5D4B878AA8980}Prefabs/Items/Equipment/Radios/Radio_R148.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Transmitting Range",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilometers"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_FrequencyMin",
+                              "m_ConfigPath": "{E1A5D4B878AA8980}Prefabs/Items/Equipment/Radios/Radio_R148.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Min tunable frequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_FrequencyMax",
+                              "m_ConfigPath": "{E1A5D4B878AA8980}Prefabs/Items/Equipment/Radios/Radio_R148.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Max tunable frequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Weight",
+                              "m_ConfigPath": "{E1A5D4B878AA8980}Prefabs/Items/Equipment/Radios/Radio_R148.et",
+                              "m_sEntryPath": "components/InventoryItemComponent/Attributes/ItemPhysAttributes/Weight",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilograms"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{C3DE2D3C1D2A0C62}UI/Textures/FieldManual/Items/Images/R148-radio.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-Item_R107M_Name",
+              "m_Image": "{E485B6DF58C49B62}UI/Textures/FieldManual/Gameplay/Communication/Tiles/radio-communication_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_R107M_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_R107M_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_ConfigEntryList": [
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Range",
+                              "m_ConfigPath": "{54C68E438DD34265}Prefabs/Items/Equipment/Radios/Radio_R107M.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Transmitting Range",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilometers"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_FrequencyMin",
+                              "m_ConfigPath": "{54C68E438DD34265}Prefabs/Items/Equipment/Radios/Radio_R107M.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Min tunable frequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_FrequencyMax",
+                              "m_ConfigPath": "{54C68E438DD34265}Prefabs/Items/Equipment/Radios/Radio_R107M.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/Max tunable frequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Weight",
+                              "m_ConfigPath": "{54C68E438DD34265}Prefabs/Items/Equipment/Radios/Radio_R107M.et",
+                              "m_sEntryPath": "components/SCR_DeployableInventoryItemInventoryComponent/Attributes/ItemPhysAttributes/Weight",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilograms"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{FA019E8E3C003D7D}UI/Textures/FieldManual/Items/Images/R107-radio.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-Item_ARTII_Name",
+              "m_Image": "{05E8DDB9E8C2E445}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/optics_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_ARTII_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_ConfigEntryList": [
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_MagnificationMin",
+                              "m_ConfigPath": "{D2018EDB1BBF4C88}Prefabs/Weapons/Attachments/Optics/Optic_ARTII/Optic_ARTII.et",
+                              "m_sEntryPath": "components/SCR_2DPIPSightsComponent/SightsFOVInfo/m_fBaseZoom",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Multiplier"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_MagnificationMax",
+                              "m_ConfigPath": "{D2018EDB1BBF4C88}Prefabs/Weapons/Attachments/Optics/Optic_ARTII/Optic_ARTII.et",
+                              "m_sEntryPath": "components/SCR_2DPIPSightsComponent/SightsFOVInfo/m_fZoomMax",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Multiplier"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Weight",
+                              "m_ConfigPath": "{D2018EDB1BBF4C88}Prefabs/Weapons/Attachments/Optics/Optic_ARTII/Optic_ARTII.et",
+                              "m_sEntryPath": "components/InventoryItemComponent/Attributes/ItemPhysAttributes/Weight",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilograms"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_ARTII_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{D014DDF1D24AF9E1}UI/Textures/FieldManual/Items/Images/Scopes/Optics_ARTII_01_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_ARTII_Image_01",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{DE0A99B9EFBDF63B}UI/Textures/FieldManual/Items/Images/Scopes/Optics_ARTII_02_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_ARTII_Image_02",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{DBFF5A7E04EF0C8D}UI/Textures/FieldManual/Items/Images/Scopes/Optics_ARTII_03_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_ARTII_Image_03",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-Item_PSO1_name",
+              "m_Image": "{05E8DDB9E8C2E445}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/optics_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_PSO1_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_PSO1_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_PSO1_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_ConfigEntryList": [
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Magnification",
+                              "m_ConfigPath": "{C850A33226B8F9C1}Prefabs/Weapons/Attachments/Optics/Optic_PSO1/Optic_PSO1.et",
+                              "m_sEntryPath": "components/SCR_2DPIPSightsComponent/SightsFOVInfo/m_fBaseZoom",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Multiplier"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-FieldManual_Parameter_Weight",
+                              "m_ConfigPath": "{C850A33226B8F9C1}Prefabs/Weapons/Attachments/Optics/Optic_PSO1/Optic_PSO1.et",
+                              "m_sEntryPath": "components/InventoryItemComponent/Attributes/ItemPhysAttributes/Weight",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_Kilograms"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_ARTII_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{497674C22CF15EF2}UI/Textures/FieldManual/Items/Images/Scopes/Optics_PSO1_01_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_PSO1_Image_01",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{4768308A11065128}UI/Textures/FieldManual/Items/Images/Scopes/Optics_PSO1_02_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_PSO1_Image_02<br/>#AR-FieldManual_Page_PSO1_Image_03",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                } 
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

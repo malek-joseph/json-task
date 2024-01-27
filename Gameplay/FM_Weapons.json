@@ -1,0 +1,891 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Category_Weapons_Title",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Weapons_Title",
+              "m_Image": "{A816085DDB6797A6}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/weapons_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Weapons_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{03637DE9DB931FF7}UI/Textures/FieldManual/Gameplay/Weapons/Images/FM_image_Optics_2_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_WeaponsBasics_Title",
+              "m_Image": "{1DFCD5B631050B90}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/basic-weapon-operations_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponsBasics_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponsBasics_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterFire\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Fire"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterWeaponADS\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ADSToggle"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterWeaponADSHold\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ADS"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterMelee\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Melee"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterReload\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Reload"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterNextFireMode\\\"/>",
+                              "m_sDescription": "#AR-Keybind_FireMode"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterNextMuzzle\\\"/>",
+                              "m_sDescription": "#AR-Keybind_UGL"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"WeaponZeroingADS\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Zeroing"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterRaiseWeapon\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponLowering"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterWeaponLowReady\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponLowReady"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterWeaponManualSafety\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponSafety"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterInspect\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponInspect"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterInspectTurn\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponInspectTurn"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{3DC5438FC23A3562}UI/Textures/FieldManual/Gameplay/Weapons/Images/m16.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Ballistics_Title",
+              "m_Image": "{4D1F564C3CBAB448}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/ballistics_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Ballistics_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Ballistics_Text_04"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Ballistics_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Ballistics_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{15073148717DA88A}UI/Textures/FieldManual/Gameplay/Weapons/Images/Weapons_ExtenalBallistics_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_Ballistics_Image_01",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_TargetLeading_Title",
+              "m_Image": "{4230E389AB5D3681}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/target-leading_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_TargetLeading_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{AB59C5271C4DA7AA}UI/Textures/FieldManual/Gameplay/Weapons/Images/Weapons_TargetLeading_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_TargetLeading_Image_01",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Zeroing_Title",
+              "m_Image": "{BDAD592BA073E16B}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/zeroing_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Zeroing_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Zeroing_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"WeaponZeroingADS\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Zeroing"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{3C1EA6D2F9B91415}UI/Textures/FieldManual/Gameplay/Weapons/Images/Weapons_Zeroing_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_Zeroing_Image_01",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_BattleZero_Title",
+              "m_Image": "{FD9806DD19FD78A6}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/battle-zero_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_BattleZero_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{48C036CE7C0FA949}UI/Textures/FieldManual/Gameplay/Weapons/Images/Weapons_BattleZero_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_BattleZero_Image_01 #AR-FieldManual_Page_BattleZero_Image_02 #AR-FieldManual_Page_BattleZero_Image_03 #AR-FieldManual_Page_BattleZero_Image_04",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{3165C9E239CC42EA}UI/Textures/FieldManual/Gameplay/Weapons/Images/Battle-zero-close_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Recoil_Title",
+              "m_Image": "{3069E807D0B23AE5}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/recoil_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Recoil_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Recoil_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Recoil_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Recoil_Text_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Recoil_Text_05"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{4694CEB37A1D65BF}UI/Textures/FieldManual/Gameplay/Weapons/Images/recoil.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_WeaponSway_Title",
+              "m_Image": "{12E8CED240573FBD}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/weapon-sway_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponSway_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponSway_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponSway_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponSway_Text_04"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{1C892738C77FC23B}UI/Textures/FieldManual/Gameplay/Weapons/Images/stance.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Grenades_Title",
+              "m_Image": "{B8B486DED07773EC}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/grenade_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Grenades_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Grenades_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Grenades_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Grenades_Text_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Grenades_Text_05"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Grenades_Text_06"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Grenades_Text_07"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{F9021CF379F0070B}UI/Textures/FieldManual/Gameplay/Weapons/Images/grenade.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{E7E97C9DFF547F61}UI/Textures/FieldManual/Gameplay/Weapons/Images/throw-smoke.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Separator": [
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterFire\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Throw"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterCancelThrow\\\"/>",
+                              "m_sDescription": "#AR-Keybind_GrenadePin"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Launchers_Title",
+              "m_Image": "{099D7474F979FF0D}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/launchers_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Launchers_Text_01<br/>"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Launchers_Text_02<br/>"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Launchers_Text_03<br/>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Optics_Title",
+              "m_Image": "{05E8DDB9E8C2E445}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/optics_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Optics_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Optics_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterWeaponADS\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ADSToggle"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterWeaponADSHold\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ADS"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"WeaponZeroingADS\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Zeroing"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"WeaponChangeMagnification\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Magnification"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"WeaponToggleSightsIllumination\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponSightIllumination"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{0D7D39A1E664102D}UI/Textures/FieldManual/Gameplay/Weapons/Images/FM_image_Optics_1_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{03637DE9DB931FF7}UI/Textures/FieldManual/Gameplay/Weapons/Images/FM_image_Optics_2_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Rangefinding_Title",
+              "m_Image": "{95593D625865CCAE}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/rangefinding_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Rangefinding_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Rangefinding_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Rangefinding_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Rangefinding_Text_04"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Rangefinding_Text_07"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Rangefinding_Text_08"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Rangefinding_Text_09"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{497674C22CF15EF2}UI/Textures/FieldManual/Items/Images/Scopes/Optics_PSO1_01_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_Rangefinding_Image_01",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{314E75387CF41482}UI/Textures/FieldManual/Gameplay/Weapons/Images/Weapons_Rangefinding_Mildots_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_Rangefinding_Image_02",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Rearming_Title",
+              "m_Image": "{96EA7D9BD401C497}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/rearming_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Rearming_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{ABF6EEDEF7FDCD2A}UI/Textures/FieldManual/Editor/Editor/Images/FM_editor_rearm_pack.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Safety_Title",
+              "m_Image": "{F3359FAE17B7C410}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/weapon-safety_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Safety_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Safety_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterWeaponManualSafety\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponSafety"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{49BAC27FA5FCB4F7}UI/Textures/FieldManual/Gameplay/Weapons/Images/FM_image_Safety_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Tracers_Title",
+              "m_Image": "{730006864497637A}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/tracers_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Tracers_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Tracers_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{32B69CABED10179D}UI/Textures/FieldManual/Gameplay/Weapons/Images/tracers.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_WeaponCustomization_Title",
+              "m_Image": "{C2662D9291F70C0D}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/weapon-customization_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponCustomization_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponCustomization_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponCustomization_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{B474908DBBD98668}UI/Textures/FieldManual/Gameplay/Weapons/Images/FM_image_customization_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{6624EBA3A7FBC213}UI/Textures/FieldManual/Gameplay/Weapons/Images/m203-loading.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponCustomization_Text_08"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponCustomization_Text_09"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_WeaponLowering_Title",
+              "m_Image": "{723B40E542ECEFD0}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/weapon-lowering_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponLowering_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterRaiseWeapon\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponLowering"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{B464B659422A27C9}UI/Textures/FieldManual/Gameplay/Weapons/Images/lowering-weapon.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_WeaponDeployment_Title",
+              "m_Image": "{E568D4D6952AC66E}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/weapon-deployment_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponDeployment_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_WeaponDeployment_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterWeaponDeploy\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponDeployment"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterWeaponBipod\\\"/>",
+                              "m_sDescription": "#AR-Keybind_WeaponBipod"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{FF5265391C19C741}UI/Textures/FieldManual/Gameplay/Weapons/Images/FM_image_machinegunner.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_BallisticProtection_Title",
+              "m_Image": "{2C578B265746E560}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/protection.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_BallisticProtection_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_BallisticProtection_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{47121C50A6B12E06}UI/Textures/FieldManual/Gameplay/Weapons/Images/FM_image_ballistic_protection.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_BallisticProtection_Text_03",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Mines_Title",
+              "m_Image": "{5B95A2ABE3A7233A}UI/Textures/FieldManual/Gameplay/Weapons/Tiles/mines.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_01_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_01_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_02_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_02_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_03_02 #AR-FieldManual_Page_Mines_Text_03_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_04_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_05_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_02_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_03_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_04_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Mines_Text_05_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterFire\\\"/>",
+                              "m_sDescription": "#AR-Keybind_MinePlacement"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterAction\\\"/>",
+                              "m_sDescription": "#AR-Keybind_MineMarking"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{BE99F521B67A681C}UI/Textures/FieldManual/Gameplay/Weapons/Images/FM_image_AT_mine_flags.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_Mines_Image_01",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{57B239FD398B1205}UI/Textures/FieldManual/Gameplay/Weapons/Images/FM_image_AT_mines.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_Mines_Image_02",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

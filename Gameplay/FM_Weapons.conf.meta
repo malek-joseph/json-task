@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{8DCCF51A07D54656}Configs/FieldManual/Categories/Gameplay/Weapons.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

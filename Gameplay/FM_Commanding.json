@@ -1,0 +1,85 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Page_Commanding_Title",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Commanding_Title",
+              "m_Image": "{D24D65511EC6758D}UI/Textures/FieldManual/Gameplay/Commanding/Tiles/commanding_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_05"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_06"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_07"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_08"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_09"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_10"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_11"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_12"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Commanding_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"OpenCommandMenu\\\"/>",
+                              "m_sDescription": "#AR-Keybind_CommandMenu"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

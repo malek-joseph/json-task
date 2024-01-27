@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{0BA745241F876C3B}Configs/FieldManual/Categories/Introduction/MainPage.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

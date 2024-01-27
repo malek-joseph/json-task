@@ -1,0 +1,331 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Page_Communication_Title",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Communication_Title",
+              "m_Image": "{99AF29179749C88D}UI/Textures/FieldManual/Gameplay/Communication/Tiles/communication_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Communication_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Communication_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Communication_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Chat_Title",
+              "m_Image": "{7DAD59050BCBDD8E}UI/Textures/FieldManual/Gameplay/Communication/Tiles/chat_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Chat_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Chat_Text_02"
+                    },
+                    {
+                      "m_sText": "<image set=\\\"{1872FFA1133724A2}UI/Textures/Chat/chat_atlas.imageset\\\" name=\\\"global\\\"/> #AR-FieldManual_Page_Chat_Text_03"
+                    },
+                    {
+                      "m_sText": "<image set=\\\"{1872FFA1133724A2}UI/Textures/Chat/chat_atlas.imageset\\\" name=\\\"faction\\\"/> #AR-FieldManual_Page_Chat_Text_04"
+                    },
+                    {
+                      "m_sText": "<image set=\\\"{1872FFA1133724A2}UI/Textures/Chat/chat_atlas.imageset\\\" name=\\\"vehicle\\\"/> #AR-FieldManual_Page_Chat_Text_05"
+                    },
+                    {
+                      "m_sText": "<image set=\\\"{1872FFA1133724A2}UI/Textures/Chat/chat_atlas.imageset\\\" name=\\\"local\\\"/> #AR-FieldManual_Page_Chat_Text_06"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{4606ACAC0561400B}UI/Textures/FieldManual/Gameplay/Communication/Images/chat.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"ChatToggle\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ChatOpen"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ChatSendMessage\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ChatSendMessage"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ChatEscape\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ChatDiscardMessage"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ChatHistoryBrowse\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ChatHistory"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"ChatSwitchChannel\\\"/>",
+                              "m_sDescription": "#AR-Keybind_ChatChannelSwitch"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_DirectCommunication_Title",
+              "m_Image": "{ADC61A95B1859AD4}UI/Textures/FieldManual/Gameplay/Communication/Tiles/direct-communication_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_DirectCommunication_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"VONSwitch\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Select"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONDirect\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Direct_Hold"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONGamepad\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Direct_Hold"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONDirectToggle\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Direct_Toggle"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONToggleGamepad\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Direct_Toggle"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_RadioCommunication_Title",
+              "m_Image": "{E485B6DF58C49B62}UI/Textures/FieldManual/Gameplay/Communication/Tiles/radio-communication_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_05"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_06"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_06a"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_06b"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_07"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{E27AE5F9B63308BF}UI/Textures/FieldManual/Gameplay/Communication/Images/radio-comms-front.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{1FFFFF9861066BFD}UI/Textures/FieldManual/Gameplay/Communication/Images/R148-radio.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{EB86BEFA7AEC4B1D}UI/Textures/FieldManual/Gameplay/Communication/Images/radio-indicator.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{1612BD7917654E30}UI/Textures/FieldManual/Gameplay/Communication/Images/radio-radial.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_08"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_09"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioCommunication_Text_10"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_ConfigEntryList": [
+                    {
+                      "m_aConfigEntries": [
+                        {
+                          "SCR_FieldManualPiece_ConfigEntry": [
+                            {
+                              "m_sDisplayName": "#AR-Faction_US",
+                              "m_ConfigPath": "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/ChannelFrequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            },
+                            {
+                              "m_sDisplayName": "#AR-Faction_USSR",
+                              "m_ConfigPath": "{54C68E438DD34265}Prefabs/Items/Equipment/Radios/Radio_R107M.et",
+                              "m_sEntryPath": "components/BaseRadioComponent/Transceivers/RadioTransceiver/ChannelFrequency",
+                              "m_sValueFormat": "#AR-FieldManual_Parameter_MHz"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"VONMenu\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Radio_Select"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONChannel\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Radio_Hold"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONChannelToggle\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Radio_Toggle"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONSwitch\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Select"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONMenu\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Radio_Select"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONGamepad\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Radio_Hold"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VONToggleGamepad\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Comms_Radio_Toggle"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_VisualSignals_Title",
+              "m_Image": "{D957D905D28B2E1E}UI/Textures/FieldManual/Gameplay/Communication/Tiles/visual-signals_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VisualSignals_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VisualSignals_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VisualSignals_Text_04"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VisualSignals_Text_06"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{E7E97C9DFF547F61}UI/Textures/FieldManual/Gameplay/Weapons/Images/throw-smoke.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

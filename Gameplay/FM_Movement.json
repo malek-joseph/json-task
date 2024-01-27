@@ -1,0 +1,441 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Page_Movement_Title",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Movement_Title",
+              "m_Image": "{73B7D74FD4368ABB}UI/Textures/FieldManual/Gameplay/Movement/Tiles/movement_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Movement_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{5FFF8780B32A054E}UI/Textures/FieldManual/Gameplay/Movement/Images/movement.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_InfantryMovement_Title",
+              "m_Image": "{7C503FD143183023}UI/Textures/FieldManual/Gameplay/Movement/Tiles/infantry-movement_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_InfantryMovement_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_InfantryMovement_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_InfantryMovement_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_InfantryMovement_Text_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_InfantryMovement_Text_05"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{A8F8DF3903D47E0E}UI/Textures/FieldManual/Gameplay/Movement/Images/line-formation.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{BEA5B285A8D339E9}UI/Textures/FieldManual/Gameplay/Movement/Images/wedge-formation.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterForward\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Move"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterRight\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Strafe"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterSprint\\\"/>",
+                              "m_sDescription": "#AR-Keybind_SpeedSprint"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterSprintToggle\\\"/>",
+                              "m_sDescription": "#AR-Keybind_SpeedSprintToggle"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterSpeedAnalog\\\"/>",
+                              "m_sDescription": "#AR-Keybind_SpeedAnalog"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterStandCrouchToggle\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Crouch"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterProne\\\"/>",
+                              "m_sDescription": "#AR-Keybind_StanceProne"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterStanceAnalog\\\"/>",
+                              "m_sDescription": "#AR-Keybind_StanceAnalog"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterLean\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Lean"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterLeanVariable\\\"/>",
+                              "m_sDescription": "#AR-Keybind_LeanAnalog"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterJump\\\"/>",
+                              "m_sDescription": "#AR-Keybind_JumpVaultClimb"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_VehicleMovement_Title",
+              "m_Image": "{D372E7AE8DE440E3}UI/Textures/FieldManual/Gameplay/Movement/Tiles/vehicle-movement_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleMovement_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleMovement_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_VehicleMovement_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{70A5A93C73134EC7}UI/Textures/FieldManual/Gameplay/Movement/Images/FM_image_Land_Vehicle_1_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    },
+                    {
+                      "m_ImagePath": "{7EBBED744EE4411D}UI/Textures/FieldManual/Gameplay/Movement/Images/FM_image_Land_Vehicle_2_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CharacterAction\\\"/>",
+                              "m_sDescription": "#AR-Keybind_VehicleEnter"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"GetOut\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Exit"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VehicleEngineStart\\\"/>",
+                              "m_sDescription": "#AR-Keybind_EngineStart"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VehicleEngineStop\\\"/>",
+                              "m_sDescription": "#AR-Keybind_EngineStop"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CarThrust\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Accelerate"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CarBrake\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Brake"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CarSteering\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Steer"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"VehicleLightsToggle\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Lights"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CarLightsHiBeamToggle\\\"/>",
+                              "m_sDescription": "#AR-Keybind_HighBeamLights"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CarHandBrake\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Handbrake"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CarTurbo\\\"/>",
+                              "m_sDescription": "#AR-Keybind_SpeedTurbo"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Helicopters_Title",
+              "m_Image": "{90F968656525665D}UI/Textures/FieldManual/Gameplay/Movement/Tiles/FM-Heli.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_01_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_01_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_02_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_02_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_03_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_04_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_04_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_04_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_05_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_06_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_07_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_07_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_02_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_03_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_04_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_05_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_06_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Helicopters_Text_07_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Keybind": [
+                    {
+                      "m_sKeybind": "<action name=\\\"HelicopterEngineStart\\\"/>",
+                      "m_sDescription": "#AR-Keybind_EngineStart"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"Collective\\\"/>",
+                      "m_sDescription": "#AR-Keybind_HelicopterCollectiveUp, #AR-Keybind_HelicopterCollectiveDown"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"CyclicForward\\\"/>",
+                      "m_sDescription": "#AR-Keybind_HelicopterCyclicForward, #AR-Keybind_HelicopterCyclicBack"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"CyclicAside\\\"/>",
+                      "m_sDescription": "#AR-Keybind_HelicopterCyclicLeft, #AR-Keybind_HelicopterCyclicRight"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"AntiTorque\\\"/>",
+                      "m_sDescription": "#AR-Keybind_HelicopterYawLeft, #AR-Keybind_HelicopterYawRight"
+                    },
+                    {
+                      "m_sKeybind": "<action name=\\\"AutohoverToggle\\\"/>",
+                      "m_sDescription": "#AR-Keybind_HelicopterAutohoverToggle"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"WheelBrake\\\"/>",
+                              "m_sDescription": "#AR-Keybind_HelicopterWheelBrake"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"WheelBrakePersistent\\\"/>",
+                              "m_sDescription": "#AR-Keybind_HelicopterWheelBrakePersistent"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"HelicopterEngineStop\\\"/>",
+                              "m_sDescription": "#AR-Keybind_EngineStop"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Transmission_Title",
+              "m_Image": "{12000C6BC54D9A4D}UI/Textures/FieldManual/Gameplay/Movement/Tiles/vehicleGearbox_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Transmission_Text_01"
+                    },
+                    {
+                      "m_sText": "<i>#AR-FieldManual_Page_Transmission_Text_02</i>"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"CarShift\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Transmission_GearDown, #AR-Keybind_Transmission_GearUp"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"CarShiftReverse\\\"/>",
+                              "m_sDescription": "#AR-Keybind_Transmission_ReverseGear"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{C57CBD4C527621BC}UI/Textures/FieldManual/Gameplay/Movement/Images/transmission_ui.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

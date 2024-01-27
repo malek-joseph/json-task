@@ -1,0 +1,32 @@
+{
+  "SCR_FieldManualPiece_KeybindList": [
+    {
+      "m_aKeybinds": [
+        {
+          "SCR_FieldManualPiece_Keybind": [
+            {
+              "m_sKeybind": "<action name=\\\"EditorTransformRotateYawModifier\\\"/>",
+              "m_sDescription": "#AR-KeybindEditor_RotateEntitiesToCursor"
+            },
+            {
+              "m_sKeybind": "<action name=\\\"EditorTransformMoveVerticalModifier\\\"/>",
+              "m_sDescription": "#AR-KeybindEditor_MoveEntitiesVertically"
+            },
+            {
+              "m_sKeybind": "<action name=\\\"EditorTransformRotateYaw\\\"/>",
+              "m_sDescription": "#AR-KeybindEditor_RotateEntities"
+            },
+            {
+              "m_sKeybind": "<action name=\\\"EditorTransformMoveVertical\\\"/>",
+              "m_sDescription": "#AR-KeybindEditor_MoveEntitiesVertically"
+            },
+            {
+              "m_sKeybind": "<action name=\\\"EditorTransformSnapToSurface\\\"/>",
+              "m_sDescription": "#AR-KeybindEditor_SnapEntitiesToSurface"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

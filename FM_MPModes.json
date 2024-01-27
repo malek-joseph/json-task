@@ -1,0 +1,39 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Page_Conflict_Title",
+      "m_aCategories": [
+        {
+          "m_aEntries": [
+            {
+              "SCR_FieldManualConfigEntry_Standard": [
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_LineBreak": [
+                        {},
+                        {}
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "m_aContent": [
+                    {
+                      "SCR_FieldManualPiece_Image": [
+                        {
+                          "m_ImagePath": "{094082A77247FBE5}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_signal_UI.edds",
+                          "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

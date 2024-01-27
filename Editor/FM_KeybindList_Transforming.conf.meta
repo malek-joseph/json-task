@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{9B3D8DCBD87E0630}Configs/FieldManual/Categories/Editor/KeybindList_Transforming.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

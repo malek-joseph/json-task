@@ -1,0 +1,524 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Page_Conflict_Title",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-FieldManual_Page_EditorIntro_Title",
+              "m_Image": "{C51BBDF1B4211541}UI/Textures/FieldManual/MPModes/Conflict/Tiles/conflict_M_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{F355C5692BEDC1E5}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_loadScreen_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_ConstructionInterface_Title",
+              "m_Image": "{326CB9604FC2C1ED}UI/Textures/FieldManual/MPModes/Conflict/Tiles/construction_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ConstructionInterface_v2_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ConstructionInterface_v2_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ConstructionInterface_v2_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ConstructionInterface_v2_Text_04"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{9C2E6BE3CD27C731}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_building_interface_init_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{93DA5875BC0B827E}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_building_interface_previews_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{D4D558F4FAE4F6C6}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_building_interface_truck_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_MobileHQ_Title",
+              "m_Image": "{97E11805FF32CED6}UI/Textures/FieldManual/MPModes/Conflict/Tiles/mobile_hq_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{9C972F975747DFAF}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_mobile_hq_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{9D1CFB061F9EB4B6}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_mobile_hq_deploy_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{70422EA98F3D3845}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_mobile_hq_map_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_MobileHQ_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_MobileHQ_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_MobileHQ_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_MobileHQ_Text_04"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_RadioOperators_Title",
+              "m_Image": "{CEB118AC12EDD162}UI/Textures/FieldManual/MPModes/Conflict/Tiles/radio_operators_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_RadioOperators_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_RadioOperators_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_RadioOperators_Text_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_RadioOperators_Text_04"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{4F5BC5CC53ED2B8A}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_Radio_Operator_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_Ranks_Title",
+              "m_Image": "{89AD469EC90B806F}UI/Textures/FieldManual/MPModes/Conflict/Tiles/ranks_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Ranks_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Ranks_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Ranks_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{8F4B90379C37C647}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_ranks_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_Reinforcements_Title",
+              "m_Image": "{9C35C4B6668ABA6D}UI/Textures/FieldManual/MPModes/Conflict/Tiles/reinforcements_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Reinforcements_Text_01"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_VehicleRequest_Title",
+              "m_Image": "{F5C412212F47C340}UI/Textures/FieldManual/MPModes/Conflict/Tiles/request_vehicles_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_VehicleRequest_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_VehicleRequest_Text_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{635E27C09D1BF916}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_requesting_vehicles_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_Respawn_Title",
+              "m_Image": "{2F23E25348144FAE}UI/Textures/FieldManual/MPModes/Conflict/Tiles/respawn_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Respawn_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Respawn_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Respawn_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{F0D2DB90F62F09E8}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_respawn_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_Seizing_Title",
+              "m_Image": "{3D2CF73BBEA2F0E1}UI/Textures/FieldManual/MPModes/Conflict/Tiles/seizing_base_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Seizing_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Seizing_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Seizing_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{D39629CC92362451}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_seizing_bases_map_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{B201EE75026D7375}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_seizing_bases_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_ServiceDepots_Title",
+              "m_Image": "{70B5D58C855FD660}UI/Textures/FieldManual/MPModes/Conflict/Tiles/support_structures_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_14"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_16"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_18"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_10"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_20"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_12_v2"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_13"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_15"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_17"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_09"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_19"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_ServiceDepots_Text_11"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{E00CCCF1DB6DE5F3}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_service_supply_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{EFF804FB17026599}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_service_antenna_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{58D8DB19B5D22301}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_service_vehicleDepot_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{B1060C668545E90E}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_service_armory_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{CD6F257891AD02AB}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_service_barracks_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{BF713EFDFF9D1161}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_service_hospital_UI.edds"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Conflict_Supplies_Title",
+              "m_Image": "{66EFABD8A380273E}UI/Textures/FieldManual/MPModes/Conflict/Tiles/supplies_UI.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{C1507FBF7780DFE7}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_supplies_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{EC60C6CB5A969F04}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_supplies_map_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{AC1FA0FF74474603}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_supplies_truck_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Supplies_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Supplies_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Conflict_Supplies_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_RadioRange_Title",
+              "m_Image": "{3084206981558148}UI/Textures/FieldManual/MPModes/Conflict/Tiles/radio_signal.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_RadioRange_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {}
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Building_Title",
+              "m_Image": "{EF0B726C48291A38}UI/Textures/FieldManual/MPModes/Conflict/Tiles/Free_Roam_Building.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Building_Text_01_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Building_Text_05_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Building_Text_01_02b"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Building_Text_01_03"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Building_Text_01_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Building_Text_05_02"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_KeybindList": [
+                    {
+                      "m_aKeybinds": [
+                        {
+                          "SCR_FieldManualPiece_Keybind": [
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorPlaceAndCancel\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_Place"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorPlace\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_KeepPlacing"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorTransformRotateYawModifier\\\"/>",
+                              "m_sDescription": "#AR-ControlsHint_Editor_EditorTransformRotateYaw"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorTransformRotateYaw\\\"/>",
+                              "m_sDescription": "#AR-ControlsHint_Editor_EditorTransformRotateYaw"
+                            },
+                            {
+                              "m_sKeybind": "<action name=\\\"EditorCancelPlacing\\\"/>",
+                              "m_sDescription": "#AR-KeybindEditor_CancelPlacing"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{93DA5875BC0B827E}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_building_interface_previews_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{9C2E6BE3CD27C731}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_building_interface_init_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    },
+                    {
+                      "m_ImagePath": "{C0852E6A99CAC075}UI/Textures/FieldManual/MPModes/Conflict/Images/Conflict_building_interface_build_UI.edds",
+                      "m_Layout": "{5DA9FD5631EF9D1E}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Screenshot.layout"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

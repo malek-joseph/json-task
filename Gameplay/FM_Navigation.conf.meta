@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{982CF7900B324038}Configs/FieldManual/Categories/Gameplay/Navigation.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

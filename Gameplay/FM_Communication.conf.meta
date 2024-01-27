@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{8FE64CF4F8186AE0}Configs/FieldManual/Categories/Gameplay/Communication.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

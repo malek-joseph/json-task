@@ -1,0 +1,549 @@
+{
+  "SCR_FieldManualConfigCategory": [
+    {
+      "m_sTitle": "#AR-FieldManual_Page_Navigation_Title",
+      "m_aEntries": [
+        {
+          "SCR_FieldManualConfigEntry_Standard": [
+            {
+              "m_sTitle": "#AR-FieldManual_Page_Navigation_Title",
+              "m_Image": "{9CB2953F321FCBCC}UI/Textures/FieldManual/Gameplay/Navigation/Tiles/navigation_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_Navigation_Text_01"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_ImagePath": "{84D5655C8EC2733B}UI/Textures/FieldManual/Gameplay/Navigation/Images/Navigation_UI.edds",
+                      "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_sTitle": "#AR-FieldManual_Page_CelestialNavigation_Title",
+              "m_Image": "{01245323D9F91200}UI/Textures/FieldManual/Gameplay/Navigation/Tiles/star-navigation_ui.edds",
+              "m_aContent": [
+                {
+                  "SCR_FieldManualPiece_Text": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_CelestialNavigation_Text_01"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_CelestialNavigation_Text_02"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_CelestialNavigation_Text_03"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_LineBreak": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "SCR_FieldManualPiece_Header": [
+                    {
+                      "m_sText": "#AR-FieldManual_Page_CelestialNavigation_Text_04"
+                    },
+                    {
+                      "m_sText": "#AR-FieldManual_Page_CelestialNavigation_Text_05"
+                    }
+                  ],
+                  "SCR_FieldManualPiece_Image": [
+                    {
+                      "m_sCaption": " "
+                    },
+                    {
+                      "m_sCaption": " "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "SCR_FieldManualConfigEntry_Standard": [
+        {
+          "m_sTitle": "#AR-FieldManual_Page_LandNavigation_Title",
+          "m_Image": "{718397C9267F4B12}UI/Textures/FieldManual/Gameplay/Navigation/Tiles/land-navigation_ui.edds",
+          "m_aContent": [
+            {
+              "SCR_FieldManualPiece_Text": [
+                {
+                  "m_sText": "#AR-FieldManual_Page_LandNavigation_Text_01"
+                },
+                {
+                  "m_sText": "#AR-FieldManual_Page_LandNavigation_Text_02"
+                },
+                {
+                  "m_sText": "#AR-FieldManual_Page_LandNavigation_Text_03"
+                }
+              ],
+              "SCR_FieldManualPiece_LineBreak": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+              ],
+              "SCR_FieldManualPiece_Header": [
+                {
+                  "m_sText": "#AR-FieldManual_Page_LandNavigation_Text_04"
+                },
+                {
+                  "m_sText": "#AR-FieldManual_Page_LandNavigation_Text_05"
+                }
+              ],
+              "SCR_FieldManualPiece_Image": [
+                {
+                  "m_ImagePath": "{27A8D2279F41B01C}UI/Textures/FieldManual/Gameplay/Navigation/Images/Navigation_Intersection_UI.edds",
+                  "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                },
+                {
+                  "m_ImagePath": "{D7741D33A37309EE}UI/Textures/FieldManual/Gameplay/Navigation/Images/Navigation_Resection_UI.edds",
+                  "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "SCR_FieldManualConfigEntry_Standard": [
+    {
+      "m_sTitle": "#AR-FieldManual_Page_TerrainReading_Title",
+      "m_Image": "{AB020D21AE7499FB}UI/Textures/FieldManual/Gameplay/Navigation/Tiles/terrain-reading_ui.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_TerrainReading_Text_01"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_TerrainReading_Text_02"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{2EB1881EB9E95458}UI/Textures/FieldManual/Gameplay/Navigation/Images/Navigation_TerrainReading_UI.edds",
+              "m_sCaption": "#AR-FieldManual_Page_TerrainReading_Image_01",
+              "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_MapLegend_Title",
+      "m_Image": "{9F1C0B58666BF074}UI/Textures/FieldManual/Gameplay/Navigation/Tiles/map-legend_ui.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_MapLegend_Text_01"
+            }
+          ],
+          "SCR_FieldManualPiece_Separator": [
+            {}
+          ],
+          "SCR_FieldManualPiece_ImageGallery": [
+            {
+              "m_aImages": [
+                {
+                  "SCR_FieldManual_ImageData": [
+                    {
+                      "m_Image": "{D5A5A7B41587E63C}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/airport.edds",
+                      "m_sCaption": "#AR-MapIcon_Airport"
+                    },
+                    {
+                      "m_Image": "{6BDFFD6C5A8701B6}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/anchorage.edds",
+                      "m_sCaption": "#AR-MapIcon_Anchorage"
+                    },
+                    {
+                      "m_Image": "{24FD7BBBDCC690A3}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/ancient-fortification.edds",
+                      "m_sCaption": "#AR-MapIcon_AncientFort"
+                    },
+                    {
+                      "m_Image": "{2E806A690858B061}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/archeological-site.edds",
+                      "m_sCaption": "#AR-MapIcon_ArchaeoSite"
+                    },
+                    {
+                      "m_Image": "{59DC254EEF1058D8}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/broadleaf-forest.edds",
+                      "m_sCaption": "#AR-MapIcon_BroadleafForest"
+                    },
+                    {
+                      "m_Image": "{8A898EFCD559AE58}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/bunker.edds",
+                      "m_sCaption": "#AR-MapIcon_Bunker"
+                    },
+                    {
+                      "m_Image": "{F1956B87A23611F2}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/buoy.edds",
+                      "m_sCaption": "#AR-MapIcon_Buoy"
+                    },
+                    {
+                      "m_Image": "{3074E113FFAD4FEB}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/bus-station.edds",
+                      "m_sCaption": "#AR-MapIcon_BusStation"
+                    },
+                    {
+                      "m_Image": "{401640F9795086CF}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/bus-stop.edds",
+                      "m_sCaption": "#AR-MapIcon_BusStop"
+                    },
+                    {
+                      "m_Image": "{CC7F018F0185EBBF}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/single-bush.edds",
+                      "m_sCaption": "#AR-MapIcon_Bush"
+                    },
+                    {
+                      "m_Image": "{F0EB92B291776A39}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/calvary.edds",
+                      "m_sCaption": "#AR-MapIcon_Calvary"
+                    },
+                    {
+                      "m_Image": "{074D12C6E7BEF12F}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/castle.edds",
+                      "m_sCaption": "#AR-MapIcon_Castle"
+                    },
+                    {
+                      "m_Image": "{9827A762B5AC495A}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/castle-ruin.edds",
+                      "m_sCaption": "#AR-MapIcon_CastleRuin"
+                    },
+                    {
+                      "m_Image": "{C70C396AC6DCDCFD}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/chapel.edds",
+                      "m_sCaption": "#AR-MapIcon_Chapel"
+                    },
+                    {
+                      "m_Image": "{5167EA7E15115D3E}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/church.edds",
+                      "m_sCaption": "#AR-MapIcon_Church"
+                    },
+                    {
+                      "m_Image": "{96252A2F168A8E46}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/light-costal.edds",
+                      "m_sCaption": "#AR-MapIcon_CoastalLight"
+                    },
+                    {
+                      "m_Image": "{A41DABA4963C524E}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/crane.edds",
+                      "m_sCaption": "#AR-MapIcon_Crane"
+                    },
+                    {
+                      "m_Image": "{6D417619E5A22F8D}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/fir-forrest.edds",
+                      "m_sCaption": "#AR-MapIcon_FirForest"
+                    },
+                    {
+                      "m_Image": "{59378371AA068D67}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/forest-lodge.edds",
+                      "m_sCaption": "#AR-MapIcon_ForestLodge"
+                    },
+                    {
+                      "m_Image": "{E36DEA70838BEF35}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/fuel-station.edds",
+                      "m_sCaption": "#AR-MapIcon_FuelStation"
+                    },
+                    {
+                      "m_Image": "{D7EBB0F269B6C7F7}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/hill-marker.edds",
+                      "m_sCaption": "#AR-MapIcon_Hill"
+                    },
+                    {
+                      "m_Image": "{AC8846CC01F4D878}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/hospital.edds",
+                      "m_sCaption": "#AR-MapIcon_Hospital"
+                    },
+                    {
+                      "m_Image": "{67EE0A884394965F}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/hotel.edds",
+                      "m_sCaption": "#AR-MapIcon_Hotel"
+                    },
+                    {
+                      "m_Image": "{87D046F691E2E792}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/lighthouse.edds",
+                      "m_sCaption": "#AR-MapIcon_Lighthouse"
+                    },
+                    {
+                      "m_Image": "{5F76E1A03154C095}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/lookout-tower.edds",
+                      "m_sCaption": "#AR-MapIcon_LookoutTower"
+                    },
+                    {
+                      "m_Image": "{C1303AAA97413E3B}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/parking-place.edds",
+                      "m_sCaption": "#AR-MapIcon_ParkingPlace"
+                    },
+                    {
+                      "m_Image": "{3BA51D1B71340E03}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/playing-field.edds",
+                      "m_sCaption": "#AR-MapIcon_PlayingField"
+                    },
+                    {
+                      "m_Image": "{28863C06CA6002EC}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/pub.edds",
+                      "m_sCaption": "#AR-MapIcon_Pub"
+                    },
+                    {
+                      "m_Image": "{E6E8A6448DD6C6BB}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/rocks.edds",
+                      "m_sCaption": "#AR-MapIcon_Rocks"
+                    },
+                    {
+                      "m_Image": "{55EB99D84CD25135}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/bushland.edds",
+                      "m_sCaption": "#AR-MapIcon_Bushland"
+                    },
+                    {
+                      "m_Image": "{8C56032F9B3824DD}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/smoke stack.edds",
+                      "m_sCaption": "#AR-MapIcon_Smokestack"
+                    },
+                    {
+                      "m_Image": "{72E06D664DD34534}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/spring.edds",
+                      "m_sCaption": "#AR-MapIcon_Spring"
+                    },
+                    {
+                      "m_Image": "{F0C9DB7F9513E7AF}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/tellecomunication-tower.edds",
+                      "m_sCaption": "#AR-MapIcon_TeleTower"
+                    },
+                    {
+                      "m_Image": "{3451A85B76213685}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/water-tower.edds",
+                      "m_sCaption": "#AR-MapIcon_Tower"
+                    },
+                    {
+                      "m_Image": "{CBAE6B105C256FA7}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/transformer.edds",
+                      "m_sCaption": "#AR-MapIcon_Transformer"
+                    },
+                    {
+                      "m_Image": "{B982EFF39D086434}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/single-tree.edds",
+                      "m_sCaption": "#AR-MapIcon_Tree"
+                    },
+                    {
+                      "m_Image": "{1D1128C6E33390AC}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/view-point.edds",
+                      "m_sCaption": "#AR-MapIcon_ViewPoint"
+                    },
+                    {
+                      "m_Image": "{610B199BD46072E7}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/water-reservoir.edds",
+                      "m_sCaption": "#AR-MapIcon_WaterReservoir"
+                    },
+                    {
+                      "m_Image": "{A7397AFF00D2311C}UI/Textures/FieldManual/Gameplay/Navigation/Images/MapIcons/tower.edds",
+                      "m_sCaption": "#AR-MapIcon_WaterTower"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_Protractor_Title",
+      "m_Image": "{DB30B99A101B30C3}UI/Textures/FieldManual/Gameplay/Navigation/Tiles/protractor_ui.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_Protractor_Text_01"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{AE396C6205FB9C2C}UI/Textures/FieldManual/Gameplay/Navigation/Images/Navigation_Protractor_UI.edds",
+              "m_sCaption": "#AR-FieldManual_Page_Protractor_Image_01",
+              "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_MapCustomization_Title",
+      "m_Image": "{BD76F6115EFF2E9D}UI/Textures/FieldManual/Gameplay/Navigation/Tiles/FM-marker.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_MapCustomization_Text_01"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_MapCustomization_Text_02"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_Keybind": [
+            {
+              "m_sKeybind": "<action name=\\\"MapContextualMenu\\\"/>",
+              "m_sDescription": "#AR-Keybind_MapContextMenu"
+            }
+          ],
+          "SCR_FieldManualPiece_Image": [
+            {
+              "m_ImagePath": "{2DBD36D743ED3A89}UI/Textures/FieldManual/Gameplay/Navigation/Images/FM_Images_Map_Customization_UI.edds",
+              "m_Layout": "{DD548791B67BEADD}UI/layouts/Menus/FieldManual/Pieces/FieldManual_Piece_Image_Basic.layout"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "m_sTitle": "#AR-FieldManual_Page_MilitarySymbology_Title",
+      "m_Image": "{DEF3E41B9341A32E}UI/Textures/FieldManual/Gameplay/Navigation/Tiles/Map_Custom.edds",
+      "m_aContent": [
+        {
+          "SCR_FieldManualPiece_Text": [
+            {
+              "m_sText": "#AR-FieldManual_Page_MilitarySymbology_Text_01"
+            }
+          ],
+          "SCR_FieldManualPiece_LineBreak": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "SCR_FieldManualPiece_Header": [
+            {
+              "m_sText": "#AR-FieldManual_Page_MilitarySymbology_Text_02"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_MilitarySymbology_Text_07"
+            },
+            {
+              "m_sText": "#AR-FieldManual_Page_MilitarySymbology_Text_10"
+            }
+          ],
+          "SCR_FieldManualPiece_ImageGallery": [
+            {
+              "m_aImages": [
+                {
+                  "SCR_FieldManual_ImageData": [
+                    {
+                      "m_Image": "{3630789DD421B91A}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_BLUFOR_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_MilitarySymbology_Text_03"
+                    },
+                    {
+                      "m_Image": "{7690286AC97451EC}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_OPFOR_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_MilitarySymbology_Text_04"
+                    },
+                    {
+                      "m_Image": "{313401122726B2DA}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_INDFOR_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_MilitarySymbology_Text_05"
+                    },
+                    {
+                      "m_Image": "{D8DDF2331F405C18}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_UNKNOWN_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_MilitarySymbology_Text_06"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_aImages": [
+                {
+                  "SCR_FieldManual_ImageData": [
+                    {
+                      "m_Image": "{3630789DD421B91A}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_BLUFOR_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_MilitarySymbology_Text_08"
+                    },
+                    {
+                      "m_Image": "{1EF1A4D2E3E536DA}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Air_UI.edds",
+                      "m_sCaption": "#AR-FieldManual_Page_MilitarySymbology_Text_09"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "m_aImages": [
+                {
+                  "SCR_FieldManual_ImageData": [
+                    {
+                      "m_Image": "{AEA07460606095ED}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Infantry_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Infantry"
+                    },
+                    {
+                      "m_Image": "{23475BBCC421B048}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Motorized_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_MotorizedInfantry"
+                    },
+                    {
+                      "m_Image": "{06707AEC3FB7601A}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Armor_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Armor"
+                    },
+                    {
+                      "m_Image": "{27DE99F8593471F5}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_AntiTank_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Antitank"
+                    },
+                    {
+                      "m_Image": "{F2B97EFA4F313DC6}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Recon_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Recon"
+                    },
+                    {
+                      "m_Image": "{DF867471213C6205}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Suppy_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Supply"
+                    },
+                    {
+                      "m_Image": "{80E6E29CEDE31E95}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Medical_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Medical"
+                    },
+                    {
+                      "m_Image": "{361F64A209F11826}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Airmobile_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Airborne"
+                    },
+                    {
+                      "m_Image": "{FC4366357E278F09}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Amphibious_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Amphibious"
+                    },
+                    {
+                      "m_Image": "{A5FA897E3AD076D1}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Signal_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Signal"
+                    },
+                    {
+                      "m_Image": "{C75FB0EA7832E51E}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Armor_UI_1.edds",
+                      "m_sCaption": "#AR-MapSymbol_Combined"
+                    },
+                    {
+                      "m_Image": "{986326B6ECE1CB3C}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Mortar_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Mortar"
+                    },
+                    {
+                      "m_Image": "{C59704D1F6B9E38B}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Artillery_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Artillery"
+                    },
+                    {
+                      "m_Image": "{BAF5AEBDDDE3C738}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Fixed_Wing_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_FiexedWing"
+                    },
+                    {
+                      "m_Image": "{73E99FC4B166D177}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Rotary_Wing_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_RotaryWing"
+                    },
+                    {
+                      "m_Image": "{5C25F9B6717E692E}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Sniper_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Sniper"
+                    },
+                    {
+                      "m_Image": "{2A5DB30A28BD26A6}UI/Textures/FieldManual/Gameplay/Navigation/Images/MilitarySymbol/FM_Milsymbol_Maintenance_UI.edds",
+                      "m_sCaption": "#AR-MapSymbol_Maintenance"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
